@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw-community/stepfun-video",
+  "name": "openclaw-stepfun-video",
   "version": "1.0.0",
   "description": "Step 3.7 Flash video understanding provider for OpenClaw",
   "type": "module",
