@@ -1,0 +1,17 @@
+{
+  "id": "stepfun-video",
+  "name": "StepFun Video",
+  "description": "Adds Step 3.7 Flash video understanding (describeVideo) to OpenClaw",
+  "version": "1.0.0",
+  "activation": {
+    "onStartup": true
+  },
+  "contracts": {
+    "mediaUnderstandingProviders": ["stepfun"]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
